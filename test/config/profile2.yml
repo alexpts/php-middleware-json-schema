@@ -1,0 +1,10 @@
+---
+
+profile:
+    request:
+        body: {}
+        headers: {}
+        cookies: {}
+        query:
+            required: ['id']
+        attributes: {}
